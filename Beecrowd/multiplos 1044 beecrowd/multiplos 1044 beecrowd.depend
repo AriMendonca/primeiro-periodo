@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1721853314 source:c:\users\ariel\downloads\projetos\c\multiplos 1044 beecrowd\main.c
+	<stdio.h>
+	<stdlib.h>
+

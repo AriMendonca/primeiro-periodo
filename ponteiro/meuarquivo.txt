@@ -1,0 +1,2 @@
+Olá, arquivo!
+Essa é outra linha de texto.

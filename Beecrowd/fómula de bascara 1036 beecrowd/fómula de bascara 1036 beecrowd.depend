@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1721248665 source:c:\users\ariel\downloads\projetos\c\fómula de bascara 1036 beecrowd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

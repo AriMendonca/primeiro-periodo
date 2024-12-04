@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1723571545 source:c:\users\ariel\downloads\projetos\c\intervalo2 1072 beecrowd\main.c
+	<stdio.h>
+	<stdlib.h>
+

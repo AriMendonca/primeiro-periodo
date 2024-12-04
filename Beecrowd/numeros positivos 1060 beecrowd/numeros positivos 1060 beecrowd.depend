@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1722545813 source:c:\users\ariel\downloads\projetos\c\numeros positivos 1060 beecrowd\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1721852572 source:c:\users\ariel\downloads\projetos\c\triangulo 1043 beecrowd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1722535590 source:c:\users\ariel\downloads\projetos\c\beecrowd\numeros pares 1059 beecrowd\main.c
+	<stdio.h>
+	<stdlib.h>
+

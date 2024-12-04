@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1720965865 source:c:\users\ariel\downloads\projetos\c\distância entre dois pontos 1015 beecrowd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

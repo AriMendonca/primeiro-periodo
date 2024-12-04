@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1723567184 source:c:\users\ariel\downloads\projetos\c\seis numeros impares 1070 beecrowd\main.c
+	<stdio.h>
+	<stdlib.h>
+

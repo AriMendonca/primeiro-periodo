@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1721242340 source:c:\users\ariel\downloads\projetos\c\notas e moedas 1021 beecrowd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

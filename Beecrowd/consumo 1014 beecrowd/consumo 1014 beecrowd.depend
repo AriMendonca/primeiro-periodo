@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1720964102 source:c:\users\ariel\downloads\projetos\c\consumo 1014 beecrowd\main.c
+	<stdio.h>
+	<stdlib.h>
+
